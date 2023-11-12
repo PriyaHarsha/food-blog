@@ -1,7 +1,7 @@
 # Food-blog
 Blog for a Food lovers of Bangalore
 
-## Best Hotels in bangalore
+# Best Hotels in bangalore
 In this section you will get all the details about good hotels in bangalore along with their famous dish
 
 ## Bset streets for food lovers
