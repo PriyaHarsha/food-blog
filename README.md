@@ -10,5 +10,5 @@ In this section you will get the best street food available in bangalore along w
 ## Cook by yourself
 In this section you will get all the steps to cook a food
 
-###Contact US
+### Contact US
 For quires, drop a mail to preethi2022@gmail.com
